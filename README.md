@@ -7,6 +7,9 @@ lvgl_img_gen_V1.1.py用于将当前文件夹下的所有png文件按照最新的
 png_rename.py is used to help you automatically rename all png files in the current folder according to the picture_id.png, to prevent the occurrence of symbols such as '-' affecting the generated c file variable declaration problems
 lvgl_img_gen_V1.1.py is used to generate a.c file in the latest lvgl-v9 format for all png files in the current folder. The file name is in lv_img_filename_dsc
 
+![微信截图_20240325145800](https://github.com/Cuixudong/LVGL-V9-PNG-picture-to-C-program/assets/23308519/7d5ce7ef-7433-446f-a57d-f1efeaa7e589)
+
+
 ![微信截图_20240322183655](https://github.com/Cuixudong/LVGL-V9-PNG-picture-to-C-program/assets/23308519/7495f7b4-cc71-4467-a404-046ee9b31fbd)
 
 
